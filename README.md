@@ -1,7 +1,8 @@
 ---
 description: Presentación UGS
 ---
-
+# AVISO
+Esta guía también está en gitbook (https://range-near.online/UGS) esto es una copia de la misma.
 # 👉 Presentación
 
 ### UGS Es una guía 100% en español y para hispanohablantes que permite la liberación de algunas consolas de Nintendo.
